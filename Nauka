@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ramy na wymiar</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css">
+
+
+    <link rel="stylesheet" href="NAUKA/ramy.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <nav>
+            <ul>
+                <li><a href="#">RAMY NA WYMIAR</a></li>
+                <li><a href="#">STANDARDOWE RAMY</a></li>
+                <li><a href="#">LUSTRA</a></li>
+                <li><a href="#">GALERIA OBRAZÓW</a></li>
+                <li><a href="#">NASZE REALIZACJE</a></li>
+                <div class="icon1"><i class="fas fa-bars"></i></div>
+                <div class="icon2"><i class="fas fa-times"></i></div>
+
+            </ul>
+
+        </nav>
+        <HEADER>
+            <h1>ramy na wymiar. sklep on-line</h1>
+        </HEADER>
+        <main>
+            <p>Zapraszamy do zakupów w naszym sklepie! Znajdą Państwo szeroki wybór ram gotowych, w najpopularniejszych formatach i rozmiarach. Jeśli nie możesz znaleźć ramy w formacie standardowym, skorzystaj z naszej aplikacji, która ułatwi Ci stworzenie ramy na zamówienie!</p>
+            <h2>Szukasz obrazu dla siebie? Galeria online www.salonsztuki.net zaprasza.</h2>
+            <div class="select">Wyświetl dostęne ramy w formacie:</div>
+        </main>
+    </div>
+    <script src= "Nauka/style.js">
+    </script>
+</body>
+
+</html>
